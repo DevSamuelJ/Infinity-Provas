@@ -9,5 +9,5 @@ num3 = float(input("Digite o terceiro numero: "))
 
 
 resultado = media(num1,num2,num3)
-print(f"A média é: {resultado:.2f}") a
+print(f"A média é: {resultado:.2f}") 
 
